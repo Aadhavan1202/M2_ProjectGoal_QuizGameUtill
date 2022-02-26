@@ -6,8 +6,11 @@ first, we create a frame according to the quiz. we use container pane for holdin
 The Key features of quiz are:
 
 1.10 Quiz Question 
+
 2.Result 
+
 3.Flag for questions
+
 4.Exit
 
 # Language & IDE
