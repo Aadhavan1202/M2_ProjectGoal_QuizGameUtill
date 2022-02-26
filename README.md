@@ -8,7 +8,7 @@ I create a **Quiz Game** using java swing GUI. In this program, we will use the 
 | **0**_Certificates | All Certificates are here | 
 | **1**_Requirement |All Requirement are here|
 |**2**_Architecture| Structure of code is here| 
-|**3**_3_Implementation|Coding part is here|
+|**3**_Implementation|Coding part is here|
 |**4**_TestPlanAndOutput| Test plan is here|
 |**5**_Images and Videos| all Images of output is here |
 |**6**_Report| Here is my Report|
