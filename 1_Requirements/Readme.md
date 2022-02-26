@@ -4,6 +4,7 @@ first, we create a frame according to the quiz. we use container pane for holdin
 
 # Feature
 The Key features of quiz are:
+
 1.10 Quiz Question 
 2.Result 
 3.Flag for questions
@@ -49,3 +50,6 @@ The project is mainly about students to get more knowledge on Java.
 
 # How
 The user can take the quiz by just complie the code.
+
+
+
