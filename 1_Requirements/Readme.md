@@ -14,20 +14,13 @@ The Key features of quiz are:\
 2.Visual studio Code
 
 # SWOT Analysis:
-- Strength
- 
-It is user friendly where user can activly participate.
-
-- Weakness
-
+- Strength\
+ It is user friendly where user can activly participate.
+- Weakness\
 There is no efficient algorithm to perform code.
-
-- Opportunities
-
+- Opportunities\
 User can grab the Opportunity to get high marks.
-
-- Threat
-
+- Threat\
 There is no time limit.
 
 # 4W's and 1H
