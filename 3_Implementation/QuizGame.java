@@ -5,9 +5,14 @@ class OnlineTest extends JFrame implements ActionListener
 {  
     JLabel l;  
     JRadioButton jb[]=new JRadioButton[5];  
-    JButton b1,b2;  
+    JButton b1;
+    JButton b2;  
     ButtonGroup bg;  
-    int count=0,current=0,x=1,y=1,now=0;  
+    int count=0;
+    int current=0;
+    int x=1;
+    int y=1;
+    int now=0;  
     int m[]=new int[10];      
     OnlineTest(String s)  
     {  
@@ -108,42 +113,66 @@ class OnlineTest extends JFrame implements ActionListener
         if(current==0)  
         {  
             l.setText("Que1:  Who invented Java Programming?");  
-            jb[0].setText("Guido");jb[1].setText("James");jb[2].setText("Dennis");jb[3].setText("Bjarne");   
+            jb[0].setText("Guido");
+            jb[1].setText("James");
+            jb[2].setText("Dennis");
+            jb[3].setText("Bjarne");   
         }  
         if(current==1)  
         {  
             l.setText("Que2: Which component is used to compile, debug and execute the java programs?");  
-            jb[0].setText("JRE");jb[1].setText("JIT");jb[2].setText("JDK");jb[3].setText("JVM");  
+            jb[0].setText("JRE");
+            jb[1].setText("JIT");
+            jb[2].setText("JDK");
+            jb[3].setText("JVM");  
         }  
         if(current==2)  
         {  
             l.setText("Que3: Which one of the following is not a Java feature?");  
-            jb[0].setText("Object-oriented");jb[1].setText("Use of pointers");jb[2].setText("Portable");jb[3].setText("Dynamic and Extensible");  
+            jb[0].setText("Object-oriented");
+            jb[1].setText("Use of pointers");
+            jb[2].setText("Portable");
+            jb[3].setText("Dynamic and Extensible");  
         }  
         if(current==3)  
         {  
             l.setText("Que4: What is the extension of java code files?");  
-            jb[0].setText(".js");jb[1].setText(".txt");jb[2].setText(".class");jb[3].setText(".java");  
+            jb[0].setText(".js");
+            jb[1].setText(".txt");
+            jb[2].setText(".class");
+            jb[3].setText(".java");  
         }  
         if(current==4)  
         {  
             l.setText("Que5: Which institute is best for java coaching?");  
-            jb[0].setText("Utek");jb[1].setText("Aptech");jb[2].setText("SSS IT");jb[3].setText("jtek");  
+            jb[0].setText("Utek");
+            jb[1].setText("Aptech");
+            jb[2].setText("SSS IT");
+            jb[3].setText("jtek");  
         }  
         if(current==5)  
         {  
             l.setText("Que6: Which one among these is not a keyword?");  
-            jb[0].setText("class");jb[1].setText("int");jb[2].setText("get");jb[3].setText("if");  
+            jb[0].setText("class");
+            jb[1].setText("int");
+            jb[2].setText("get");
+            jb[3].setText("if");  
         }  
         if(current==6)  
         {  
             l.setText("Que7: Which one among these is not a class? ");  
-            jb[0].setText("Swing");jb[1].setText("Actionperformed");jb[2].setText("ActionEvent");jb[3].setText("Button");  
+            jb[0].setText("Swing");
+            jb[1].setText("Actionperformed");
+            jb[2].setText("ActionEvent");
+            jb[3].setText("Button");  
         }  
         if(current==7)  
         {  
             l.setText("Que8: Which environment variable is used to set the java path?");  
-            jb[0].setText("MAVEN_Path");jb[1].setText("JavaPATH");jb[2].setText("JAVA");jb[3].setText("JAVA_HOME");         
+            jb[0].setText("MAVEN_Path");
+            jb[1].setText("JavaPATH");
+            jb[2].setText("JAVA");
+            jb[3].setText("JAVA_HOME");         
         }  
         if(current==8)  
         {  
