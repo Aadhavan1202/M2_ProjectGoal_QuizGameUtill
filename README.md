@@ -12,3 +12,5 @@ I create a **Quiz Game** using java swing GUI. In this program, we will use the 
 |**4**_TestPlanAndOutput| Test plan is here|
 |**5**_Images and Videos| all Images of output is here |
 |**6**_Report| Here is my Report|
+
+## Badegs
