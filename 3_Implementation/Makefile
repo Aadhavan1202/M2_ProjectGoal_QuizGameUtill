@@ -3,9 +3,9 @@ JC = javac
 .SUFFIXES: .java .class
 .java.class:
         $(JC) $(JFLAGS) $*.java
-CLASSES = QuizGame.java
+CLASSES = OnlineTest.class
 
-default: classes
+default : classes
 
 classes: $(CLASSES:.java=.class)
 
