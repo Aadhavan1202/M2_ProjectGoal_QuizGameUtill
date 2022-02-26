@@ -12,13 +12,10 @@ The Key features of quiz are:
 3.Flag for questions
 
 4.Exit
-
 # Language & IDE
 1.Java
 
 2.Visual studio Code
-
-
 # SWOT Analysis:
 - Strength
  
@@ -36,7 +33,6 @@ User can grab the Opportunity to get high marks.
 
 There is no time limit.
 
-
 # 4W's and 1H
 
 ## Who
@@ -53,6 +49,3 @@ The project is mainly about students to get more knowledge on Java.
 
 ## How
 The user can take the quiz by just compile the code.
-
-
-
