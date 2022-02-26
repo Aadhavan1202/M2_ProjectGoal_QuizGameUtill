@@ -4,18 +4,15 @@ first, we create a frame according to the quiz. we use container pane for holdin
 
 # Feature
 The Key features of quiz are:
-
-1.Ten Quiz Question 
-
-2.Result 
-
-3.Flag for questions
-
+1.Ten Quiz Question\
+2.Result \
+3.Flag for questions\
 4.Exit
-# Language & IDE
-1.Java
 
-2.Visual studio Code
+# Language & IDE
+1.Java\
+2.Visual studio Code\
+
 # SWOT Analysis:
 - Strength
  
