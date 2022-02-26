@@ -52,7 +52,7 @@ Students are actively participate because the quiz is based on Java language and
 The project is mainly about students to get more knowledge on Java.
 
 # How
-The user can take the quiz by just complie the code.
+The user can take the quiz by just compile the code.
 
 
 
