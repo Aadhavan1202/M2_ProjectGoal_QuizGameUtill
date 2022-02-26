@@ -3,7 +3,7 @@ I create a **Quiz Game** using java swing GUI. In this program, we will use the 
 first, we create a frame according to the quiz. we use container pane for holding the components.
 
 # Feature
-The Key features of quiz are:
+The Key features of quiz are:\
 1.Ten Quiz Question\
 2.Result \
 3.Flag for questions\
@@ -11,7 +11,7 @@ The Key features of quiz are:
 
 # Language & IDE
 1.Java\
-2.Visual studio Code\
+2.Visual studio Code
 
 # SWOT Analysis:
 - Strength
