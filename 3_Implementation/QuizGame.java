@@ -177,12 +177,18 @@ class OnlineTest extends JFrame implements ActionListener
         if(current==8)  
         {  
             l.setText("Que9: Which of the following is not an OOPS concept in Java?");  
-            jb[0].setText("Polymorphism");jb[1].setText("Inheritance");jb[2].setText("Compilation");jb[3].setText("Encapsulation");  
+            jb[0].setText("Polymorphism");
+            jb[1].setText("Inheritance");
+            jb[2].setText("Compilation");
+            jb[3].setText("Encapsulation");  
         }  
         if(current==9)  
         {  
             l.setText("Que10: Which exception is thrown when java is out of memory?");  
-            jb[0].setText("MemoryError");jb[1].setText("OutOfMemoryError");jb[2].setText("MemoryOutOfBoundsException");jb[3].setText("MemoryFullException");  
+            jb[0].setText("MemoryError");
+            jb[1].setText("OutOfMemoryError");
+            jb[2].setText("MemoryOutOfBoundsException");
+            jb[3].setText("MemoryFullException");  
         }  
         l.setBounds(30,40,450,20);  
         for(int i=0,j=0;i<=90;i+=30,j++)  
