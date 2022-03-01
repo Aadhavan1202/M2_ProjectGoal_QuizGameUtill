@@ -21,5 +21,5 @@ I create a **Quiz Game** using java swing GUI. In this program, we will use the 
 | [![GPLv3 License](https://api.codiga.io/project/31470/status/svg)]() ||
 
 # Reference
-1-https://www.w3adda.com/java-swing-tutorial/swing-jframe
+1-https://www.w3adda.com/java-swing-tutorial/swing-jframe   \
 2-https://www.knowledgehut.com/tutorials/java-tutorial/java-swing
