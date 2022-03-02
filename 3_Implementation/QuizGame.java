@@ -93,7 +93,6 @@ class OnlineTest extends JFrame implements ActionListener
             if(check())  
                 count=count+1;  
             current++;  
-            //System.out.println("correct ans="+count); 
             if(count>3){
             JOptionPane.showMessageDialog(this,"correct ans="+count+" Congratulations! You are passed");  
             System.exit(0); 
