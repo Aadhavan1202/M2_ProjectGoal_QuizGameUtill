@@ -1,6 +1,6 @@
 # Requirements
 I create a **Quiz Game** using java swing GUI. In this program, we will use the Action listener method and Swing class. 
-first, we create a frame according to the quiz. we use container pane for holding the components.There are following thing which i am using from Java swing.
+first, we create a frame according to the quiz. we use container pane for holding the components.There are following thing which i am using from Java swing.\
 1-Button\
 2-Label\
 3-TextFeild\
